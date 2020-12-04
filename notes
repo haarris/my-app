@@ -1,0 +1,15 @@
+package.json:
+"react scripts" automates a lot of the webpack/babel
+stuff so we don't have to deal with it, the four commands
+below: 
+    -   "start" - starts the project
+    -   "build" - converts into ready made static files
+    -   "test"
+    -   "eject" - take out config babel files if we want to tinker oursleves
+
+Folders:
+"src" source folder is where all our code goes
+"public" all our browser files, "build" converts them into
+static files for public folder
+
+

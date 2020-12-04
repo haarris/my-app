@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+//interacts with the DOM whereas App.js where React is imported
+//IS the actual VirtualDOM
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
